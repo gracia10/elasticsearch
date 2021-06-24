@@ -16,9 +16,9 @@ docker run --name kib01-test --net elastic -p 5601:5601 -e "ELASTICSEARCH_HOSTS=
 curl localhost:5601
 ```
 
+https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
 
-
-
+https://www.elastic.co/guide/en/kibana/current/docker.html
 
 
 
